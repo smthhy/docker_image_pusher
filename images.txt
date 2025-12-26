@@ -1,5 +1,4 @@
 nacos/nacos-server:v3.1.0
 powerjob/powerjob-server:4.3.6
 bladex/sentinel-dashboard
-eclipse-temurin:17-jre-jammy
-openjdk:17-jdk-slim
+openjdk:17-jdk
